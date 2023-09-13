@@ -7,4 +7,4 @@ Creating a repository for CSCI-12 to learn how this all fits together.
 3. And lots more
 4. but all of this would probably drive my webguy nuts ..,
 ### I'm taking classes this semester to learn these skills ###
-* I'm afraid I am going to bomb out!*
+*I'm afraid I am going to bomb out!*
