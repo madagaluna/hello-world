@@ -6,6 +6,6 @@ Creating a repository for CSCI-12 to learn how this all fits together.
 2. I'd like to have a map that allows people to navigate from the porch that are on to a new one
 3. And lots more
    
-# but all of this would probably drive my webguy nuts ..,
+# but all of this would probably drive my webguy nuts ...
 ### I'm taking classes this semester to learn these skills ###
 *I'm afraid I am going to bomb out!*
